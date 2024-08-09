@@ -1,0 +1,19 @@
+{
+    "database": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "truecall_aztest",
+        "password": "Tikt0k@1",
+        "database": "truecall_caller_id"
+    },
+    "secret": "THIS_IS_USED_TO_SIGN_AND_VERIFY_JWT_TOKENS_REPLACE_IT_WITH_YOUR",
+    "emailFrom": "support@truecallapp.com",
+    "smtpOptions": {
+        "host": "truecallapp.com",
+        "port": 465,
+        "auth": {
+            "user": "support@truecallapp.com",
+            "pass": "Tikt0k@1"
+        }
+    }
+}

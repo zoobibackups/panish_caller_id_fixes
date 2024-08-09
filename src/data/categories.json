@@ -1,0 +1,98 @@
+[
+    {
+        "id": "1",
+        "name": "Travel & Toursim",
+        "createdAt": "2023-02-15 15:47:44",
+        "updatedAt": "2023-02-15 15:47:44"
+    },
+    {
+        "id": "2",
+        "name": "Transportation- Automotive",
+        "createdAt": "2023-02-15 15:47:44",
+        "updatedAt": "2023-02-15 15:47:44"
+    },
+    {
+        "id": "3",
+        "name": "Sport & Recreation",
+        "createdAt": "2023-02-15 15:47:44",
+        "updatedAt": "2023-02-15 15:47:44"
+    },
+    {
+        "id": "4",
+        "name": "Shopping & Convenience Stores",
+        "createdAt": "2023-02-15 15:47:44",
+        "updatedAt": "2023-02-15 15:47:44"
+    },
+    {
+        "id": "5",
+        "name": "Services",
+        "createdAt": "2023-02-15 15:47:44",
+        "updatedAt": "2023-02-15 15:47:44"
+    },
+    {
+        "id": "6",
+        "name": "Restaurant & Cafes",
+        "createdAt": "2023-02-15 15:47:44",
+        "updatedAt": "2023-02-15 15:47:44"
+    },
+    {
+        "id": "7",
+        "name": "Religious Place",
+        "createdAt": "2023-02-15 15:47:44",
+        "updatedAt": "2023-02-15 15:47:44"
+    },
+    {
+        "id": "8",
+        "name": "Property",
+        "createdAt": "2023-02-15 15:47:44",
+        "updatedAt": "2023-02-15 15:47:44"
+    },
+    {
+        "id": "9",
+        "name": "Nightlife & Drinks",
+        "createdAt": "2023-02-15 15:47:44",
+        "updatedAt": "2023-02-15 15:47:44"
+    },
+    {
+        "id": "10",
+        "name": "Hotel & Accommodation",
+        "createdAt": "2023-02-15 15:47:44",
+        "updatedAt": "2023-02-15 15:47:44"
+    },
+    {
+        "id": "11",
+        "name": "Health & Wellness",
+        "createdAt": "2023-02-15 15:47:44",
+        "updatedAt": "2023-02-15 15:47:44"
+    },
+    {
+        "id": "12",
+        "name": "Govt.& Public Services",
+        "createdAt": "2023-02-15 15:47:44",
+        "updatedAt": "2023-02-15 15:47:44"
+    },
+    {
+        "id": "13",
+        "name": "Entertainment & Arts",
+        "createdAt": "2023-02-15 15:47:44",
+        "updatedAt": "2023-02-15 15:47:44"
+    },
+    {
+        "id": "14",
+        "name": "Finace & Insurance",
+        "createdAt": "2023-02-15 15:47:44",
+        "updatedAt": "2023-02-15 15:47:44"
+    },
+    {
+        "id": "15",
+        "name": "Education",
+        "createdAt": "2023-02-15 15:47:44",
+        "updatedAt": "2023-02-15 15:47:44"
+    },
+    {
+        "id": "16",
+        "name": "Beauty & Personal Care",
+        "createdAt": "2023-02-15 15:47:44",
+        "updatedAt": "2023-02-15 15:47:44"
+    }
+]
